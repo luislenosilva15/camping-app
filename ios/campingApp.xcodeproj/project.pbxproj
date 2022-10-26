@@ -8,12 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* campingAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* campingAppTests.m */; };
+		075CE8AE60BF41ED9DE9AF80 /* Quicksand_Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = 76262E4108274C4EAE67799C /* Quicksand_Book.otf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-campingApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-campingApp.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		4158FB1CB84A446295E6543A /* Quicksand_Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = DBB723BB7C894707903146D9 /* Quicksand_Light.otf */; };
+		5F030F306E3349AB865F5268 /* Quicksand_Book_Oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 16BA4AB9083F4B94B1616FEC /* Quicksand_Book_Oblique.otf */; };
 		7699B88040F8A987B510C191 /* libPods-campingApp-campingAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-campingApp-campingAppTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		B7C5E33A803C4EFDA0F67EDF /* Quicksand_Bold_Oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = C743464C50D745D7BB294CC0 /* Quicksand_Bold_Oblique.otf */; };
+		BF658C11D1F2406AAF6DFC82 /* Quicksand_Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6AA981718CA84A1C940F618D /* Quicksand_Bold.otf */; };
+		CDFA3AD847DE4EC799610356 /* Quicksand_Light_Oblique.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9B5D74077999452298E77E96 /* Quicksand_Light_Oblique.otf */; };
+		F60F4C0A3EB540AB8630BF17 /* Quicksand_Dash.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0F84EABBB0EB4D0B840C1AA3 /* Quicksand_Dash.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,19 +37,26 @@
 		00E356EE1AD99517003FC87E /* campingAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = campingAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* campingAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = campingAppTests.m; sourceTree = "<group>"; };
+		0F84EABBB0EB4D0B840C1AA3 /* Quicksand_Dash.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Quicksand_Dash.otf; path = ../src/assets/fonts/Quicksand_Dash.otf; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* campingApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = campingApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = campingApp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = campingApp/AppDelegate.mm; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = campingApp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = campingApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = campingApp/main.m; sourceTree = "<group>"; };
+		16BA4AB9083F4B94B1616FEC /* Quicksand_Book_Oblique.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Quicksand_Book_Oblique.otf; path = ../src/assets/fonts/Quicksand_Book_Oblique.otf; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-campingApp-campingAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-campingApp-campingAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-campingApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-campingApp.debug.xcconfig"; path = "Target Support Files/Pods-campingApp/Pods-campingApp.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-campingApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-campingApp.release.xcconfig"; path = "Target Support Files/Pods-campingApp/Pods-campingApp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-campingApp-campingAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-campingApp-campingAppTests.debug.xcconfig"; path = "Target Support Files/Pods-campingApp-campingAppTests/Pods-campingApp-campingAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-campingApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-campingApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6AA981718CA84A1C940F618D /* Quicksand_Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Quicksand_Bold.otf; path = ../src/assets/fonts/Quicksand_Bold.otf; sourceTree = "<group>"; };
+		76262E4108274C4EAE67799C /* Quicksand_Book.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Quicksand_Book.otf; path = ../src/assets/fonts/Quicksand_Book.otf; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = campingApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-campingApp-campingAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-campingApp-campingAppTests.release.xcconfig"; path = "Target Support Files/Pods-campingApp-campingAppTests/Pods-campingApp-campingAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		9B5D74077999452298E77E96 /* Quicksand_Light_Oblique.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Quicksand_Light_Oblique.otf; path = ../src/assets/fonts/Quicksand_Light_Oblique.otf; sourceTree = "<group>"; };
+		C743464C50D745D7BB294CC0 /* Quicksand_Bold_Oblique.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Quicksand_Bold_Oblique.otf; path = ../src/assets/fonts/Quicksand_Bold_Oblique.otf; sourceTree = "<group>"; };
+		DBB723BB7C894707903146D9 /* Quicksand_Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Quicksand_Light.otf; path = ../src/assets/fonts/Quicksand_Light.otf; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -106,6 +120,21 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		4719802EF0944FC09DC19745 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6AA981718CA84A1C940F618D /* Quicksand_Bold.otf */,
+				C743464C50D745D7BB294CC0 /* Quicksand_Bold_Oblique.otf */,
+				76262E4108274C4EAE67799C /* Quicksand_Book.otf */,
+				16BA4AB9083F4B94B1616FEC /* Quicksand_Book_Oblique.otf */,
+				0F84EABBB0EB4D0B840C1AA3 /* Quicksand_Dash.otf */,
+				DBB723BB7C894707903146D9 /* Quicksand_Light.otf */,
+				9B5D74077999452298E77E96 /* Quicksand_Light_Oblique.otf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -122,6 +151,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				4719802EF0944FC09DC19745 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -244,6 +274,13 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				BF658C11D1F2406AAF6DFC82 /* Quicksand_Bold.otf in Resources */,
+				B7C5E33A803C4EFDA0F67EDF /* Quicksand_Bold_Oblique.otf in Resources */,
+				075CE8AE60BF41ED9DE9AF80 /* Quicksand_Book.otf in Resources */,
+				5F030F306E3349AB865F5268 /* Quicksand_Book_Oblique.otf in Resources */,
+				F60F4C0A3EB540AB8630BF17 /* Quicksand_Dash.otf in Resources */,
+				4158FB1CB84A446295E6543A /* Quicksand_Light.otf in Resources */,
+				CDFA3AD847DE4EC799610356 /* Quicksand_Light_Oblique.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
